@@ -1,0 +1,4 @@
+Pyber Observations
+1. Based on the Bubble chart results, the Urban cities have more drivers.
+2. Because the Urban city has more drivers, the total fares are more in those cities as well.
+3. The Rural cities have the least amount of Uber drivers and riders.
